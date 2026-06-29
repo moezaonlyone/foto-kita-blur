@@ -1,0 +1,10 @@
+# Install semua dependency dengan perintah:
+# python -m pip install -r requirements.txt
+#
+# Alternatif singkat:
+# pip install -r requirements.txt
+
+opencv-python==4.13.0.92
+mediapipe==0.10.35
+numpy==2.4.3
+Pillow==12.2.0
